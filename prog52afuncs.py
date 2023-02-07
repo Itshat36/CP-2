@@ -13,6 +13,6 @@ def main():
   width = int(input("Enter width: "))
   a, p = areaPerim(length, width)
   print(f"Area: {a}/n Perimeter: {p}")
-
+  
 if __name__ == "__main__":
   main()
