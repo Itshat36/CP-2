@@ -1,0 +1,12 @@
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\obj\Debug\Prog166EWhile.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\obj\Debug\Prog166EWhile.MainForm.resources
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\obj\Debug\Prog166EWhile.pyproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\Prog166EWhile.exe.config
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\Prog166EWhile.exe
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\Prog166EWhile.dll
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\Prog166EWhile\Prog166EWhile\obj\Debug\Prog166EWhile.exe

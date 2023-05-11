@@ -1,0 +1,10 @@
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\MultiForm.dll
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\obj\Debug\MultiForm.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\MultiForm\MultiForm\obj\Debug\MultiForm.exe

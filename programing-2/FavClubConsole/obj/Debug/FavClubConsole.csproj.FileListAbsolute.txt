@@ -1,0 +1,7 @@
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\bin\Debug\FavClubConsole.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\bin\Debug\FavClubConsole.exe
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\bin\Debug\FavClubConsole.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\obj\Debug\FavClubConsole.exe
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\obj\Debug\FavClubConsole.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\bin\Debug\FavClubConsole.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\FavClubConsole\bin\Debug\FavClubConsole.exe.lastcodeanalysissucceeded

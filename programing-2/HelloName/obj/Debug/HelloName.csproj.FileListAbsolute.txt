@@ -1,0 +1,8 @@
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\bin\Debug\HelloName.exe
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\bin\Debug\HelloName.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\obj\Debug\HelloName.exe
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\obj\Debug\HelloName.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\bin\Debug\HelloName.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\bin\Debug\HelloName.exe.lastcodeanalysissucceeded
+C:\Users\schram.k\Desktop\P2\programing-2\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache

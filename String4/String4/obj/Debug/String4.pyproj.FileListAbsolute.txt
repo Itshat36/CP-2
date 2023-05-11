@@ -1,0 +1,12 @@
+C:\Users\schram.k\Desktop\P2\String4\String4\obj\Debug\String4.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\String4\String4\obj\Debug\String4.MainForm.resources
+C:\Users\schram.k\Desktop\P2\String4\String4\obj\Debug\String4.pyproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\String4.exe.config
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\String4.exe
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\String4.dll
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\String4\String4\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\String4\String4\obj\Debug\String4.exe

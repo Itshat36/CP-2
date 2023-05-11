@@ -1,0 +1,10 @@
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\pg435B.exe.config
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\pg435B.exe
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\pg435B.dll
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\obj\Debug\pg435B.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\pg435B\pg435B\obj\Debug\pg435B.exe

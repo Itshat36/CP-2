@@ -1,0 +1,8 @@
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\bin\Debug\prog52b-2.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\obj\Debug\prog52b-2.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\bin\Debug\prog52b-2.exe
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\bin\Debug\prog52b-2.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\obj\Debug\prog52b-2.exe
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\obj\Debug\prog52b-2.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\bin\Debug\prog52b-2.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-2\bin\Debug\prog52b-2.exe.lastcodeanalysissucceeded

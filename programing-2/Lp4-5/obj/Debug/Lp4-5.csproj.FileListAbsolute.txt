@@ -1,0 +1,5 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Lp4-5\bin\Debug\Lp4-5.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Lp4-5\bin\Debug\Lp4-5.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lp4-5\bin\Debug\Lp4-5.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lp4-5\obj\Debug\Lp4-5.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lp4-5\obj\Debug\Lp4-5.pdb

@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\bin\Debug\Lang54a-2.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\bin\Debug\Lang54a-2.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\bin\Debug\Lang54a-2.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\obj\Debug\Lang54a_2.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\obj\Debug\Lang54a_2.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\obj\Debug\Lang54a-2.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\obj\Debug\Lang54a-2.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\obj\Debug\Lang54a-2.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54a-2\obj\Debug\Lang54a-2.csprojResolveAssemblyReference.cache

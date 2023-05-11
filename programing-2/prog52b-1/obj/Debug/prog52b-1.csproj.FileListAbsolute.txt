@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\bin\Debug\prog52b-1.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\bin\Debug\prog52b-1.exe
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\bin\Debug\prog52b-1.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\obj\Debug\prog52b-1.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\obj\Debug\prog52b_1.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\obj\Debug\prog52b_1.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\obj\Debug\prog52b-1.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\obj\Debug\prog52b-1.exe
+C:\Users\schram.k\Desktop\P2\programing-2\prog52b-1\obj\Debug\prog52b-1.pdb

@@ -1,0 +1,10 @@
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\prog122afor.exe.config
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\prog122afor.exe
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\prog122afor.dll
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\obj\Debug\prog122afor.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\prog122afor\prog122afor\obj\Debug\prog122afor.exe

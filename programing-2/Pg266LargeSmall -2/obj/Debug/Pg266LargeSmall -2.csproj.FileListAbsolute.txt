@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\bin\Debug\Pg266LargeSmall -2.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\obj\Debug\Pg266LargeSmall -2.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\obj\Debug\Pg266LargeSmall__2.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\obj\Debug\Pg266LargeSmall__2.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\obj\Debug\Pg266LargeSmall -2.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\bin\Debug\Pg266LargeSmall -2.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\bin\Debug\Pg266LargeSmall -2.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\obj\Debug\Pg266LargeSmall -2.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Pg266LargeSmall -2\obj\Debug\Pg266LargeSmall -2.pdb

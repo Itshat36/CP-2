@@ -1,0 +1,14 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\bin\Debug\Hello World.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\bin\Debug\Hello World.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\obj\Debug\Hello World.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\obj\Debug\Hello World.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\bin\Debug\Hello World.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\Hello World\bin\Debug\Hello World.exe.lastcodeanalysissucceeded
+C:\Users\schram.k\Documents\GitHub\CP-2\programing-2\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\schram.k\Documents\GitHub\CP-2\programing-2\Hello World\obj\Debug\Hello World.exe
+C:\Users\schram.k\Documents\GitHub\CP-2\programing-2\Hello World\obj\Debug\Hello World.pdb

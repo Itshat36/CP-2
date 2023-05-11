@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "strint3", "strint3\strint3.pyproj", "{1D2B7195-13BC-42FE-A8EB-9BAF24CDDCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2B7195-13BC-42FE-A8EB-9BAF24CDDCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2B7195-13BC-42FE-A8EB-9BAF24CDDCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2B7195-13BC-42FE-A8EB-9BAF24CDDCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2B7195-13BC-42FE-A8EB-9BAF24CDDCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

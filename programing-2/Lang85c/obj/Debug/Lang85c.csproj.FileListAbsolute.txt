@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\bin\Debug\Lang85c.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\bin\Debug\Lang85c.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\bin\Debug\Lang85c.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\obj\Debug\Lang85c.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\obj\Debug\Lang85c.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\obj\Debug\Lang85c.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\obj\Debug\Lang85c.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\obj\Debug\Lang85c.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang85c\obj\Debug\Lang85c.pdb

@@ -1,0 +1,10 @@
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\Prog115While.exe.config
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\Prog115While.exe
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\Prog115While.dll
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\obj\Debug\Prog115While.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\Prog115While\Prog115While\obj\Debug\Prog115While.exe

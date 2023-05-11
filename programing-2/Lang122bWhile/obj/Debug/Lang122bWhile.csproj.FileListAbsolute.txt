@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\bin\Debug\Lang122bWhile.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\bin\Debug\Lang122bWhile.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\bin\Debug\Lang122bWhile.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\obj\Debug\Lang122bWhile.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\obj\Debug\Lang122bWhile.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\obj\Debug\Lang122bWhile.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\obj\Debug\Lang122bWhile.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\obj\Debug\Lang122bWhile.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang122bWhile\obj\Debug\Lang122bWhile.pdb

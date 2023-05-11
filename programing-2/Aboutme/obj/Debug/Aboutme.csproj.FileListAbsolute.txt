@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\bin\Debug\Aboutme.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\bin\Debug\Aboutme.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\bin\Debug\Aboutme.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\obj\Debug\Aboutme.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\obj\Debug\Aboutme.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\obj\Debug\Aboutme.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\obj\Debug\Aboutme.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\obj\Debug\Aboutme.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Aboutme\obj\Debug\Aboutme.pdb

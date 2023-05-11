@@ -1,0 +1,7 @@
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\bin\Debug\NameConsole.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\bin\Debug\NameConsole.exe
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\bin\Debug\NameConsole.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\obj\Debug\NameConsole.exe
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\obj\Debug\NameConsole.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\bin\Debug\NameConsole.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\NameConsole\bin\Debug\NameConsole.exe.lastcodeanalysissucceeded

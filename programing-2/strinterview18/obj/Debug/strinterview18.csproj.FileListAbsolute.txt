@@ -1,0 +1,6 @@
+C:\Users\schram.k\Desktop\P2\programing-2\strinterview18\bin\Debug\strinterview18.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\strinterview18\bin\Debug\strinterview18.exe
+C:\Users\schram.k\Desktop\P2\programing-2\strinterview18\bin\Debug\strinterview18.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\strinterview18\obj\Debug\strinterview18.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\strinterview18\obj\Debug\strinterview18.exe
+C:\Users\schram.k\Desktop\P2\programing-2\strinterview18\obj\Debug\strinterview18.pdb

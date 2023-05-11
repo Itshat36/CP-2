@@ -1,0 +1,10 @@
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\Prog52a.exe.config
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\Prog52a.exe
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\Prog52a.dll
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\IronPython.dll
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\IronPython.Modules.dll
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\obj\Debug\Prog52a.pyprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\Prog52a\Prog52a\obj\Debug\Prog52a.exe

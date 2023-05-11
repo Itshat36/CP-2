@@ -1,0 +1,11 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\bin\Debug\Prog45a.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\bin\Debug\Prog45a.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\bin\Debug\Prog45a.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\bin\Debug\Prog45a.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\bin\Debug\Prog45a.exe.lastcodeanalysissucceeded
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\obj\Debug\Prog45a.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\obj\Debug\Prog45a.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\obj\Debug\Prog45a.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\obj\Debug\Prog45a.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\obj\Debug\Prog45a.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Prog45a\obj\Debug\Prog45a.pdb

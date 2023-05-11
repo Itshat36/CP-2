@@ -1,0 +1,7 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\bin\Debug\Lang54c.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\bin\Debug\Lang54c.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\bin\Debug\Lang54c.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\obj\Debug\Lang54c.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\obj\Debug\Lang54c.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\bin\Debug\Lang54c.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\Lang54c\bin\Debug\Lang54c.exe.lastcodeanalysissucceeded

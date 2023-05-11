@@ -1,0 +1,8 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\bin\Debug\Lange52aConsole.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\bin\Debug\Lange52aConsole.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\bin\Debug\Lange52aConsole.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\obj\Debug\Lange52aConsole.csprojResolveAssemblyReference.cache
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\obj\Debug\Lange52aConsole.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\obj\Debug\Lange52aConsole.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\bin\Debug\Lange52aConsole.exe.CodeAnalysisLog.xml
+C:\Users\schram.k\Desktop\P2\programing-2\Lange52aConsole\bin\Debug\Lange52aConsole.exe.lastcodeanalysissucceeded

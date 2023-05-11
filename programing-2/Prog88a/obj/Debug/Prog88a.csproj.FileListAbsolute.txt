@@ -1,0 +1,9 @@
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\bin\Debug\Prog88a.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\bin\Debug\Prog88a.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\obj\Debug\Prog88a.Form1.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\obj\Debug\Prog88a.Properties.Resources.resources
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\obj\Debug\Prog88a.csproj.GenerateResource.Cache
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\obj\Debug\Prog88a.pdb
+C:\Users\schram.k\Desktop\P2\programing-2\Prog88a\obj\Debug\Prog88a.csprojResolveAssemblyReference.cache
